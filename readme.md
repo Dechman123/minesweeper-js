@@ -9,4 +9,4 @@
 * Браузер, поддерживающий ECMAScript 6
 
 Инструкция по запуску игры:
-Перейти на страницу https://plaksindv.github.io/minesweeper-js/
+Перейти на страницу https://dechman123.github.io/minesweeper-js/
